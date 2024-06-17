@@ -17,3 +17,5 @@
 <li>Se você optar por adicionar um projeto, insira o nome do projeto, o orçamento, o tamanho da equipe e o nível de complexidade (1 para baixo, 2 para médio, 3 para alto).</li>
 <li>Se você optar por calcular a probabilidade de sucesso, selecione o número do projeto que deseja calcular.</li>
 <li>O aplicativo exibirá a probabilidade estimada. </li>
+
+<h5>Este trabalho foi desenvolvido no 5 semestre para a matéria de Cálculo Numérico, ministrada pelo Professor Edivagner.</h5>
