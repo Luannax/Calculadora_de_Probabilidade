@@ -1,6 +1,5 @@
 projetos = []
-#sdhfgsdyfgysdgfygdsygfysdgf
-#sdfjhsdyfgsdyfgtff dsfdsfs
+
 def interpolacao(projetos, caracteristica_atual):
     caracteristica_escolhida = 'orçamento'  # escolhe a característica de orçamento
     projetos.sort(key=lambda x: x[caracteristica_escolhida])  # ordena a lista por essa característica
