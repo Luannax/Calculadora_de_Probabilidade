@@ -1,6 +1,6 @@
 projetos = []
 
-#teste parhshfsfhusdhfushd
+#não sei como fazer pull requeste aqui 
 
 def interpolacao(projetos, caracteristica_atual):
     caracteristica_escolhida = 'orçamento'  # escolhe a característica de orçamento
